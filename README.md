@@ -18,3 +18,4 @@ Analyze:
 * Again using a SQL query, this program answers the question: "Which artists released the most songs each year?"
 
 Below is a screenshot of my workflow in databricks (ingest -> prepare -> analyze)
+![Workflow](/Workflow.png)
